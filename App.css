@@ -1,0 +1,34 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main{
+  align-items: center;
+  text-align: center;
+  padding-top: 150px;
+  font-size: 60px;
+
+  font-family: 'Times New Roman', Times, serif;
+}
+h1{
+  font-size: 40px;
+}
+input{
+  font-size: 20px;
+  padding: 10px;
+  margin-right: 100px;
+  position:flex;
+}
+.ticket{
+  text-align: center;
+  font-size: 40px;
+  padding-top: 200px;
+  position: absolute;
+}
+.lbl{
+  margin-right:50px;
+}
+.lbl1{
+  margin-right:130px;
+}
